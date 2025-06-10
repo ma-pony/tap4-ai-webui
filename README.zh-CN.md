@@ -77,7 +77,8 @@ NEXT_PUBLIC_SITE_URL,NEXT_PUBLIC_SUPABASE_URL,NEXT_PUBLIC_SUPABASE_ANON_KEYï¼Œå…
 NEXT_PUBLIC_SITE_URL="https://tap4.ai"
 
 # Google tracking ID and ad URL
-GOOGLE_TRACKING_ID="G-XXXXXXX" GOOGLE_ADSENSE_URL="https://xxxx.googlesyndication.com/xxxxx/xxxxx"
+GOOGLE_TRACKING_ID="G-XXXXXXX" 
+GOOGLE_ADSENSE_URL="https://xxxx.googlesyndication.com/xxxxx/xxxxx"
 
 # Contact email at the bottom
 CONTACT_US_EMAIL="contact@tap4.ai"
