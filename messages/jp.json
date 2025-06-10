@@ -64,10 +64,6 @@
     "10": {
       "question": "AIツールの使用権は何ですか？",
       "answer": "AI ToolBox Todayツールディレクトリは、AIツールのためのAIディレクトリにすぎません。AIツールの使用権は、AIツールのウェブサイトに基づいています。"
-    },
-    "11": {
-      "question": "AI ToolBox TodayディレクトリのWebUIはオープンソースですか？",
-      "answer": "はい、AI ToolBox TodayディレクトリのWebUIはGitHub（https://github.com/6677-ai/tap4-ai-webui）でオープンソース化されます。私たちにスターを付けてください。"
     }
   },
   "FooterNavigation": {
